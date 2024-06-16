@@ -3,4 +3,4 @@ I have uploaded all the answers, along with the code and assignments, for the MK
 
 # Note
 I apologize for not including the name on the code screenshot. Please download all the files and review them. If preferred, you can upload them directly. Note that two files are missing, so there are only 123 files uploaded because two assignments were repeated and therefore not included here. Please be aware that there might be some changes.
-*For better go for .zip file instead
+For better go for .zip file instead
